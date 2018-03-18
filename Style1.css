@@ -1,0 +1,14 @@
+article.logo
+{
+border: 1px black solid;
+height: 100px;
+position: relative;
+}
+
+article.logo img 
+{
+height: 50px;
+width: 50px;
+position: absolute;
+top:25px;
+}
